@@ -48,4 +48,4 @@ Telecom companies face significant customer churn, leading to revenue loss. This
 ---
 
 ## 🔗 Project Link
-https://github.com/yourusername/customer-churn-dashboard
+https://github.com/Iamnikhilesh/customer-churn-dashboard

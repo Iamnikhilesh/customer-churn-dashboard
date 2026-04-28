@@ -43,7 +43,7 @@ Telecom companies face significant customer churn, leading to revenue loss. This
 ---
 
 ## 📸 Dashboard Preview
-![Dashboard](images/dashboard.png.png)
+![Dashboard](images/dashboard.png)
 
 ---
 
